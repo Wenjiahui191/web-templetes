@@ -1,0 +1,9 @@
+//.prettierignore 可以根据自己的目录结构自行添加
+/dist/*
+.local
+.output.js
+/node_modules/**
+**/*.svg
+**/*.sh
+/.vscode
+/public/*
